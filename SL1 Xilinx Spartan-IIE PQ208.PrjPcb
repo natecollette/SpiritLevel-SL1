@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=AC186760-561E-456E-8CF3-4A1B0F1A9DEE
+VaultGUID=3E65DC20-A15A-46BD-B577-46FA84AC614C
+ReleaseVaultName=Nates new demo workspace
+ItemGUID=AC186760-561E-456E-8CF3-4A1B0F1A9DEE
 IncludeDesignInRelease=0
 
 [Preferences]
